@@ -1,8 +1,10 @@
 September 15, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: sieshajohnson@yahoo.com, paulsignor@att.net
-At: 2026-09-15 21:30:35
-Id: GVSrLCu3
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: alancline@charter.net, minniemousecin@hotmail.com
+At: 2026-09-15 21:31:14
+Id: YbrRVcSm
